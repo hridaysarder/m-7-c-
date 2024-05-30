@@ -1,1 +1,5 @@
+Sifat 1 98
 Akib 4 98
+Shakib 2 97
+Rifat 3 96
+Rakib 5 95
